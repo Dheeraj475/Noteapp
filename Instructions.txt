@@ -1,0 +1,15 @@
+1.connections
+2.Time zone setting for indian
+3.For Popup 
+4.Post method runns from form and including in sql phpmyadmin
+5.Setting delete by using method get
+6.Head tag includes jquery table and css design and others library etc.
+7.See the codes
+8.Popup message using php
+9.See the codes     
+10.Setting jquery table and including the sql connections
+11.Adding logic to the sql sno and data adjustment see the code to understand
+12.Javascript library for running
+13.Edit button design using js can handle see the code
+14.Deletes button design handling using js can see the code
+15.Thank you very much for showing this video:
