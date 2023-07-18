@@ -12,4 +12,4 @@
 12.Javascript library for running
 13.Edit button design using js can handle see the code
 14.Deletes button design handling using js can see the code
-15.Thank you very much for showing this video:
+15.Thank you very much:
